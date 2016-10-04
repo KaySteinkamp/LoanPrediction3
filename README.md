@@ -4,6 +4,7 @@ Three machine learning algorithms are available:
 - Logistic regression
 - Decision Tree
 - Random Forest
+Code written in Python 3.
 
 # Usage
 The test and training data are in test_data.csv and train_data.csv, respectively. 
